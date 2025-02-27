@@ -1,4 +1,4 @@
-from interviewed import is_permutation_of_palindrome
+from interview.string.interviewed import is_permutation_of_palindrome
 
 
 def _check(input_str, is_permutation):

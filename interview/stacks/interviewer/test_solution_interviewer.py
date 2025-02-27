@@ -1,4 +1,4 @@
-from solution import Stack, sort_stack
+from interview.stacks.interviewer.interviewer import Stack, sort_stack
 
 
 def _check(values):
